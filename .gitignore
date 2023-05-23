@@ -1,0 +1,6 @@
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+
+# undo-tree files
+*.~undo-tree~
